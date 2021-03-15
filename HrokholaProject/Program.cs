@@ -10,7 +10,7 @@ namespace HrokholaProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hrokhola Super");
+            Console.WriteLine("Hrokhola Klass");
         }
     }
 }
