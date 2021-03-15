@@ -10,7 +10,7 @@ namespace HrokholaProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HKakashka");
+            Console.WriteLine("Version 2");
         }
     }
 }
