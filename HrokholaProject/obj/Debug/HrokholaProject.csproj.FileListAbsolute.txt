@@ -1,0 +1,7 @@
+D:\HrokholaProject\HrokholaProject\bin\Debug\HrokholaProject.exe.config
+D:\HrokholaProject\HrokholaProject\bin\Debug\HrokholaProject.exe
+D:\HrokholaProject\HrokholaProject\bin\Debug\HrokholaProject.pdb
+D:\HrokholaProject\HrokholaProject\obj\Debug\HrokholaProject.csprojAssemblyReference.cache
+D:\HrokholaProject\HrokholaProject\obj\Debug\HrokholaProject.csproj.CoreCompileInputs.cache
+D:\HrokholaProject\HrokholaProject\obj\Debug\HrokholaProject.exe
+D:\HrokholaProject\HrokholaProject\obj\Debug\HrokholaProject.pdb
